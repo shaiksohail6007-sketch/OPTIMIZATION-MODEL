@@ -128,3 +128,4 @@ Completing this task on Google Colab also highlights the ease of using cloud-bas
 
 #OUTPUT
 
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/9f8cc87b-ce79-4e14-992d-a9264a3e2d25" />
